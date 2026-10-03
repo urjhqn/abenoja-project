@@ -1,3 +1,3 @@
 # abenoja-project
 
-## Project for System Integration and ???
+## Project for System Integration and Architecture
